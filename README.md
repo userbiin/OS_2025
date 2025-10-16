@@ -88,6 +88,6 @@ Medicine alarm application project
 | 구성 요소 | 설명 |
 |------------|------|
 | <img src="/images/pic1.png" width="250"> | 복용 여부 및 리포트 앱 UI 예시 |
-| <img src="/images/참고.jpg" width="250"> | 시중에서 (4구 기준) 정가 89,800원에 판매되고 있는 스마트 약통  |
+| <img src="/images/ex.png" width="250"> | 시중에서 (4구 기준) 정가 89,800원에 판매되고 있는 스마트 약통  |
 
 
